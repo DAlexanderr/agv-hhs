@@ -47,3 +47,7 @@ int main(void)
         }
     }
 }
+
+
+// trek een bak als je dit leest
+
